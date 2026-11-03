@@ -20,7 +20,7 @@
     "@mastra/core": "1.64.0",
     "@mastra/memory": "1.28.2",
     "@mastra/pg": "1.22.3",
-    "zod": "4.5.4"
+    "zod": "4.6.6"
   },
   "devDependencies": {
     "@types/node": "24.3.0",
